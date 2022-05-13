@@ -1,0 +1,23 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 6cb077be-5651-4b6c-b052-aeed9bdaeb71)
+
+  (paper "A4")
+
+  (title_block
+    (title "Project Title")
+    (date "Date")
+    (rev "REV")
+    (comment 2 "<REPO-URL>")
+    (comment 3 "Licensed under CERN-OHL-W v2")
+    (comment 4 "Copyright © 2022 Adrien Kohlbecker")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
