@@ -462,6 +462,14 @@
       {
         "netclass": "Bigger",
         "pattern": "VCC"
+      },
+      {
+        "netclass": "Bigger",
+        "pattern": "/V_OSC"
+      },
+      {
+        "netclass": "Bigger",
+        "pattern": "/+3.3V"
       }
     ]
   },
